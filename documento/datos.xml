@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<restaurantes>
+    <restaurante nombre="El Patio">
+        <plato>
+            <nombre>Ceviche Mixto de Corvina, Pulpo y Camarón, Salsa roja, Aguacate y Cilantro</nombre>
+            <imagen>https://www.aceitesdeolivadeespana.com/wp-content/uploads/2019/05/ceviche_de_camaron_y_pulpo_1.jpg</imagen>
+            <valor>14,90</valor>
+        </plato>
+        <plato>
+            <nombre>Hamburguesa de Carne de Res, Queso Cheddar, Pepinillos, tocino ahumado y Papas Fritas</nombre>
+            <imagen>https://i.blogs.es/0a03d9/como-hacer-hamburguesas-caseras-con-tocino-y-salsa-bbq-2-/1366_2000.jpg</imagen>
+            <valor>18.00</valor>
+        </plato>
+    </restaurante>
+    <restaurante nombre="El Rancho de Juancho">
+        <plato>
+            <nombre>Bandeja Pasia</nombre>
+            <imagen>https://d1uz88p17r663j.cloudfront.net/original/1570939e9f814bec82c668279513c94f_BANDEJA-PAISA.jpg</imagen>
+            <valor>16.00</valor>
+        </plato>
+        <plato>
+            <nombre>Pechuga de Pollo con Champiñones</nombre>
+            <imagen>https://peopleenespanol.com/thmb/Qzlz7HhLeN1KdJLdltoSzdVSLH4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/recetas-1073-pollo-con-champinones-a-la-crema-2000-994f97be27a8468180f6985119917802.jpg</imagen>
+            <valor>11.50</valor>
+        </plato>
+    </restaurante>
+    <restaurante nombre="Pim's Panecillo">
+        <plato>
+            <nombre>Enrollado de Pollo</nombre>
+            <imagen>https://www.tqma.com.ec/images/com_yoorecipe/banner_superior/17574_1.jpg</imagen>
+            <valor>15.60</valor>
+        </plato>
+        <plato>
+            <nombre>Fritada</nombre>
+            <imagen>https://www.recetasnestle.com.ec/sites/default/files/srh_recipes/56f9c3a11c709364e16d3315ea5ddfd9.jpg</imagen>
+            <valor>17.50</valor>
+        </plato>
+    </restaurante>
+</restaurantes>
